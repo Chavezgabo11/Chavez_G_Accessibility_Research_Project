@@ -1,4 +1,4 @@
-# netflixfront
+# Research Project
 
 ## Project setup
 ```
