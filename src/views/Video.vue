@@ -6,9 +6,8 @@
     <div class="card">
         <video controls muted class="card-img-top">  
             <source type="video/mp4" :src="require('@/assets/video/avengers.mp4')" >   
-            <track src='../assets/video/avengers.vtt' label="English" kind="captions" srclang="en-us" default >
+            <track src='../assets/video/avengers.vtt' label="English" kind="captions" srclang="en">
             <track src='../assets/video/avengers-fr.vtt' label="French" kind="subtitles" srclang="fr" >
-            <track src='../assets/video/avengers-copy.vtt' label="Lol" kind="subtitles" srclang="es" >
         </video>
         <br>
         <div class="card-body">
