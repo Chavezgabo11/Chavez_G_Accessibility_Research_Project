@@ -2,9 +2,6 @@
 node_modules
 /dist
 
-/src/assets/video
-/views/video
-
 # local env files
 .env.local
 .env.*.local
