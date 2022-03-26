@@ -1,4 +1,5 @@
-# Research App
+# Research Project
+main
 
 ## Project setup
 ```
