@@ -1,0 +1,74 @@
+button {
+    margin: 5px;
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    border-radius: 50%;
+    color: white;
+}
+
+audio {
+    background: white;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: white;
+    color: black;
+}
+
+#player {
+    margin: 15px;
+    width: 650px;
+}
+
+.play {
+    margin-left: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.play:hover {
+    transition: 0.3s ease;
+    height: 170px;
+    width: 170px;
+    background-color: green;
+}
+
+.pause {
+    margin-left: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.pause:hover {
+    transition: 0.3s ease;
+    height: 170px;
+    width: 170px;
+    background-color: red;
+}
+
+.vol1 {
+    margin-left: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.vol1:hover {
+    transition: 0.3s ease;
+    height: 170px;
+    width: 170px;
+    background-color: green;
+}
+
+.vol2 {
+    margin-left: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.vol2:hover {
+    transition: 0.3s ease;
+    height: 170px;
+    width: 170px;
+    background-color: red;
+}
