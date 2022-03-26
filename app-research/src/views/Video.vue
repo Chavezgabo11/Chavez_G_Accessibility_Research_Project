@@ -28,11 +28,9 @@ export default {
   name: 'TheVideo',
   methods: {
     goVideo () {
-      // and use the route to show the next view TODO => should happen on succesful login 
       this.$router.push({name: 'Video' })
     },
     goAudio () {
-      // and use the route to show the next view TODO => should happen on succesful login 
       this.$router.push({name: 'Audio' })
     }
   },
